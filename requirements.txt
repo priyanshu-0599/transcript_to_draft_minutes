@@ -3,4 +3,4 @@ python-dotenv
 langchain
 langchain-openai
 openai
-textwrap
+
