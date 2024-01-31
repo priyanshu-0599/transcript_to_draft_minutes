@@ -1,6 +1,7 @@
-streamlit==1.14.0
-python-dotenv==0.20.0
-langchain==0.0.111
-openai==0.27.2
-langchain-openai==0.0.111
-textwrap==0.16.0
+streamlit
+python-dotenv
+langchain1
+langchain-openai
+openai
+langchain-openai
+textwrap
