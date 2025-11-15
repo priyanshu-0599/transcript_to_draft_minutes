@@ -1,7 +1,7 @@
 from dotenv import load_dotenv 
 import os
 import streamlit as st
-from langchain.text_splitter import TokenTextSplitter
+from langchain_text_splitters import TokenTextSplitter
 from langchain_openai.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import MapReduceDocumentsChain, ReduceDocumentsChain, LLMChain
@@ -77,3 +77,4 @@ def main():
             
 if __name__ == '__main__':
     main()
+
