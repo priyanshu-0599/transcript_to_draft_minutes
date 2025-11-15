@@ -3,4 +3,5 @@ python-dotenv
 langchain
 langchain-openai
 openai
-
+langchain-text-splitters 
+tiktoken
